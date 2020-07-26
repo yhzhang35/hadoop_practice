@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84178487-528e-4c74-9924-5a7fd7224c4a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../Flume_Interceptor/Flume_Interceptor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flume_Interceptor/src/main/java/com/yunhai/flume/interceptor/LogETLInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flume_Interceptor/src/main/java/com/yunhai/flume/interceptor/LogTypeInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flume_Interceptor/src/main/java/com/yunhai/flume/interceptor/LogUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode_practice/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode_practice/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode_practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode_practice/src/main/java/com/yunhai/leetcode/dynamic_prgraming/DifferentRount62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode_practice/src/main/java/com/yunhai/leetcode/dynamic_prgraming/LongestReString5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../日志生成/loggenerate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../日志生成/src/main/java/com/yunhai/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../日志生成/src/main/java/com/yunhai/Pro/AppActive_background.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../日志生成/src/main/java/com/yunhai/Pro/AppActive_foreground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../日志生成/src/main/java/com/yunhai/Pro/AppAd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../日志生成/src/main/java/com/yunhai/Pro/AppBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../日志生成/src/main/java/com/yunhai/Pro/AppComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../日志生成/src/main/java/com/yunhai/Pro/AppDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../日志生成/src/main/java/com/yunhai/Pro/AppErrorLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../日志生成/src/main/java/com/yunhai/Pro/AppFavorites.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../日志生成/src/main/java/com/yunhai/Pro/AppLoading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../日志生成/src/main/java/com/yunhai/Pro/AppNewsDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../日志生成/src/main/java/com/yunhai/Pro/AppNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../日志生成/src/main/java/com/yunhai/Pro/AppPraise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../日志生成/src/main/java/com/yunhai/Pro/AppStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../日志生成/src/main/java/com/yunhai/interceptor/LogETLInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../日志生成/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scala_project/leetcode_practice/leetcode_practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database_code/MYSQL/register.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Database_code/MYSQL/register.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Typora_note/Big Data/B站视频笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Typora_note/Big Data/B站视频笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Typora_note/Big Data/hadoop生态笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Typora_note/Big Data/hadoop生态笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Typora_note/Big Data/大数据学习笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Typora_note/Big Data/大数据学习笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Typora_note/论文笔记/The Hadoop Distributed File System.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Typora_note/论文笔记/The Hadoop Distributed File System.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bash/practice_shell/check_info.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bash/practice_shell/cmd_envirenment.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bash/practice_shell/cmd_hive.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bash/practice_shell/cmd_java.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bash/practice_shell/cmd_zookeeper.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bash/practice_shell/practice_tow_number.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bash/practice_shell/remove_hdfs_temp.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bash/practice_shell/scp_zookeeper.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bash/practice_shell/send_file.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bash/practice_shell/send_profile_host.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bash/practice_shell/send_profile_hosts2.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bash/practice_shell/send_zookeeper.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bash/practice_shell/start_and_stop_hadoop.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../bash/practice_shell/start_and_stop_hadoop.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bash/practice_shell/start_and_stop_zookeeper.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../bash/practice_shell/start_and_stop_zookeeper.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../big-data/data-mining/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../big-data/data-mining/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoopwordcount.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hadoopwordcount.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode_practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode_practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode_practice/src/main/java/com/yunhai/leetcode/dynamic_prgraming/Tongpei_44.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode_practice/src/main/java/com/yunhai/leetcode/dynamic_prgraming/Tongpei_44.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode_practice/target/classes/com/yunhai/leetcode/dynamic_prgraming/Tongpei_44.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode_practice/target/classes/com/yunhai/leetcode/dynamic_prgraming/Tongpei_44.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_flash/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web_flash/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/动态规划/5. 最长回文子串.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../jupyter/动态规划/5. 最长回文子串.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/暂存代码/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../jupyter/暂存代码/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/jingdongfang/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/jingdongfang/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/jingdongfang/code/cheinfo/result0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/jingdongfang/code/cheinfo/result1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/jingdongfang/code/cheinfo/result10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/jingdongfang/code/cheinfo/result2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/jingdongfang/code/cheinfo/result3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/jingdongfang/code/cheinfo/result4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/jingdongfang/code/cheinfo/result5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/jingdongfang/code/cheinfo/result6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/jingdongfang/code/cheinfo/result7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/jingdongfang/code/cheinfo/result8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/jingdongfang/code/cheinfo/result9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../notable" beforeDir="false" afterPath="$PROJECT_DIR$/../../../notable" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="F:" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="76" />
+    <option name="width" value="1291" />
+    <option name="height" value="707" />
+  </component>
+  <component name="ProjectId" id="1dFQOd7uWHsoNp7DFVb0rO7mwiQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84178487-528e-4c74-9924-5a7fd7224c4a" name="Default" comment="" />
+      <created>1590680164607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590680164607</updated>
+      <workItem from="1590680177163" duration="7999000" />
+      <workItem from="1590744730348" duration="7929000" />
+      <workItem from="1590850977764" duration="3661000" />
+      <workItem from="1592018333721" duration="1799000" />
+      <workItem from="1592035320947" duration="3999000" />
+      <workItem from="1592466477136" duration="1649000" />
+      <workItem from="1592659189627" duration="3000" />
+      <workItem from="1592659388252" duration="2566000" />
+      <workItem from="1595644935530" duration="1347000" />
+      <workItem from="1595666049186" duration="987000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1595645682604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595645682604" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1592466841974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592466841974" />
+    <state x="334" y="215" key="new project wizard" timestamp="1592466925330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="215" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1592466925330" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

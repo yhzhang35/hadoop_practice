@@ -1,0 +1,3 @@
+WordCountApp.class
+component\WordCountMapper.class
+component\WordCountReducer.class
