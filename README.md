@@ -8,7 +8,7 @@
 
 码字不易，如果大家想持续获得大数据相关内容，请关注和点赞坏蛋哥(haha......)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/OttTy9k3GWh3kHib4JQjpzSeDNyqqI4ryroRwpNJAKh5XUHcXvheibiaW2LdF5rdurw2wZdz6E6gZ1ul9Z3Trr61w/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![image](https://mmbiz.qpic.cn/mmbiz_jpg/OttTy9k3GWh3kHib4JQjpzSeDNyqqI4ryroRwpNJAKh5XUHcXvheibiaW2LdF5rdurw2wZdz6E6gZ1ul9Z3Trr61w/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
